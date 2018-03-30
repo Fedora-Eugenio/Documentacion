@@ -1,4 +1,4 @@
-# Proyecto: *Campo de Tiro Láser
+# Proyecto: *Campo de Tiro Láser*
 
 ## Tabla de Contenidos
 - [Objetivo General](#objetivo-general)
