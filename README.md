@@ -22,6 +22,7 @@
 
 ## Metodología
 - Diagrama de Bloques
+![Diagrama de bloques final](https://github.com/Fedora-Eugenio/Documentacion/blob/master/Diagrama%20de%20bloques%20final.jpg)
 
 ## Software
 - CodeWarrior v10.6 + Processor Expert.
