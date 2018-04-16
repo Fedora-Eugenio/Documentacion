@@ -21,12 +21,14 @@
   Este proyecto surge de la idea de crear un sistema de juego que sea fácil de usar, barato y entretenido. La idea principal es crear un campo de tiro en el cual se ponga a prueba la puntería de cada jugador en dos modos de juego: uno en el cual se cuenta con un número finito de disparos y otro donde se pueden hacer todos los disparos posibles en un tiempo determinado.
 
 ## Metodología
-- Diagrama de Bloques
+- Diagrama de Bloques:
+
 ![Diagrama de bloques final](https://github.com/Fedora-Eugenio/Documentacion/blob/master/Diagrama%20de%20bloques%20final.jpg)
 
 ## Software
 - CodeWarrior v10.6 + Processor Expert.
 - Processing 3.
 - NI Multisim v13.
-- Diagrama de Flujo
+- Diagrama de Flujo:
+
 ![Diagrama de flujo](https://github.com/Fedora-Eugenio/Documentacion/blob/master/Diagrama%20de%20flujo.jpg)
