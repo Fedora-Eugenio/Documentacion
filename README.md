@@ -28,3 +28,5 @@
 - CodeWarrior v10.6 + Processor Expert.
 - Processing 3.
 - NI Multisim v13.
+- Diagrama de Flujo
+![Diagrama de flujo](https://github.com/Fedora-Eugenio/Documentacion/blob/master/Diagrama%20de%20flujo.jpg)
