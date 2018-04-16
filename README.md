@@ -18,7 +18,7 @@
 - Documentar el proyecto realizado mediante la elaboración de un informe detallado que muestre las técnicas, materiales y estrategias utilizadas.
 
 ## Justificación
-  Este proyecto surge de la idea de crear un sistema de juego que sea fácil de usar, barato y entretenido. La idea principal es crear un campo de tiro en el cual se ponga a prueba la puntería de cada jugador en dos modos de juego: uno en el cual se cuenta con un número finito de disparos y otro donde se pueden hacer todos los disparos posibles en un tiempo determinado
+  Este proyecto surge de la idea de crear un sistema de juego que sea fácil de usar, barato y entretenido. La idea principal es crear un campo de tiro en el cual se ponga a prueba la puntería de cada jugador en dos modos de juego: uno en el cual se cuenta con un número finito de disparos y otro donde se pueden hacer todos los disparos posibles en un tiempo determinado.
 
 ## Metodología
 - Diagrama de Bloques
